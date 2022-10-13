@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamarthSaxena10
+- 👋 Hi, I’m Samarth Saxena
 - 👀 I’m interested in MERN Stack Devlopment and Open Source.
 - 🌱 I’m currently learning Web3 and Web Devlopment.
 - 💞️ I’m looking to collaborate on Web Projects and in Open Source.
