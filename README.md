@@ -1,4 +1,3 @@
-![logo](https://github.com/SamarthSaxena10/SamarthSaxena10/blob/main/e6c0a3d11b984b2eb010e77cd5a8f163lr4pXdxYB3MNSdHJ-63.png)
 <h1 align="center">Hi 👋, I'm Samarth Saxena</h1>
 <h3 align="center">A passionate MERN Stack Blockchain Developer and Web3 enthusiast from India.</h3>
 
