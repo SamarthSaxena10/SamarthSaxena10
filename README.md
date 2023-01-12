@@ -19,12 +19,8 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
         <tr>
-           
             <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthSaxena10&theme=blueberry&hide_border=false" alt="Streak" />
             </td>
         </tr>
-      <tr>
-        
-      </tr>
-    </thead>
+      </thead>
 </table>
