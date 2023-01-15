@@ -19,7 +19,6 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=SamarthSaxena10&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />               </td>
             <td><img src="https://streak-stats.demolab.com/?user=SamarthSaxena10&theme=tokyonight" alt="Aparna's GitHub Stats" /></td>
         </tr>
     </thead>
