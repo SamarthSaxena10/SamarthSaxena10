@@ -4,7 +4,7 @@
          width="45" />, I'm Samarth Saxena</h1>
 <h3 align="center">A passionate MERN Stack Blockchain Developer and Web3 enthusiast from India .</h3>
 
-<img align = "right" alt = coding man width = "400px" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4796w797c6i7t73j0r9lq6sfut65te1bcbfsv6a52h&rid=giphy.gif&ct=g">
+<img align = "right" alt = coding man width = "400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthsaxena10&label=Profile%20views&color=0e75b6&style=flat" alt="samarthsaxena10" /> </p>
 
