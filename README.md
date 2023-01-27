@@ -1,7 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Samarth Saxena</h1>
+<h1 align="center">Hi,  I'm Samarth Saxena</h1>
 <h3 align="center">A passionate MERN Stack Blockchain Developer and Web3 enthusiast from India .</h3>
 
 <img align = "right" alt = coding man width = "400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
