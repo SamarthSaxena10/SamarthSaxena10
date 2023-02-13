@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthsaxena10&label=Profile%20views&color=0e75b6&style=flat" alt="samarthsaxena10" /> </p>
 
 ## 💫 About Me:
-🔭 I’m currently working on Web3 Space<br>🌱 I’m currently learning React, Solidity and Web3<br>💬 Ask me about MERN Stack Development<br>⚡ Real fact I'm always curious of learning new things
+🔭 I’m currently working on Web3 Space<br>🌱 I’m currently learning React, Solidity<br>💬 Ask me about MERN Stack Development<br>⚡ Real fact I'm always curious of learning new things....
 
 
 ## 🌐 Socials:
