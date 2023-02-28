@@ -24,6 +24,8 @@
         </tr>
         
         <tr>
-        <td> ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamarthSaxena10&theme=tokyonight&langs_count=5)
+        <td> ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamarthSaxena10&theme=tokyonight&langs_count=5) </td>
+        </tr>
+          
     </thead>
 </table>
