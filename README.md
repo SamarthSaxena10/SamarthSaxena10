@@ -22,7 +22,5 @@
         <tr>
             <td><img src="https://streak-stats.demolab.com/?user=SamarthSaxena10&theme=tokyonight" alt="Samarth's GitHub Stats" /></td>
         </tr>
-       
-          
     </thead>
 </table>
