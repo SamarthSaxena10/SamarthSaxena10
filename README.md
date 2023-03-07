@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats:
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center">
     <thead>
         <tr>
             <td><img src="https://streak-stats.demolab.com/?user=SamarthSaxena10&theme=tokyonight" alt="Samarth's GitHub Stats" /></td>
