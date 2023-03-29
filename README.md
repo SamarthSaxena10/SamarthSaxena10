@@ -22,5 +22,9 @@
         <tr>
             <td><img src="https://streak-stats.demolab.com/?user=SamarthSaxena10&theme=tokyonight" alt="Samarth's GitHub Stats" /></td>
         </tr>
+        
+        <tr>
+            <td>![](https://github-readme-stats.vercel.app/api?username=samarthsaxena10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+        </tr>
     </thead>
 </table>
