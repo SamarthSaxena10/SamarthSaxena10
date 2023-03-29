@@ -17,14 +17,9 @@
 
 ## 📊 GitHub Stats:
 
-<table align="center">
-    <thead>
-        <tr>
-            <td><img src="https://streak-stats.demolab.com/?user=SamarthSaxena10&theme=tokyonight" alt="Samarth's GitHub Stats" /></td>
-        </tr>
-        
-        <tr>
-            ![](https://github-readme-stats.vercel.app/api?username=thisissamridh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
-        </tr>
-    </thead>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=SamarthSaxena10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamarthSaxena10&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthSaxena10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SamarthSaxena10&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
