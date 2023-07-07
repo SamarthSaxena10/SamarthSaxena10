@@ -1,4 +1,4 @@
-<h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Samarth Saxena</h1>
+ <h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Samarth Saxena</h1>
 <h3 align="center">Full Stack Web3 Dev exploring De-Fi and DAO's .</h3>
 
 <img align = "right" alt = coding man width = "400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthsaxena10&label=Profile%20views&color=0e75b6&style=flat" alt="samarthsaxena10" /> </p>
 
 ## 💫 About Me:
-🔭 I’m currently working on Web3 Space<br>🌱 I’m currently learning Rust, Typescript<br>💬 Ask me about Full Stack Web3 Dev, Blockchain and De-Fi's.<br>⚡ Real fact I'm always curious of learning new things
+ <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working with Shardeum<br><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with Web3 Communities<br><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> I’m looking for help with Interoperability and Smart Contract Auditing<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Rust, Typescript and exploring Solana<br><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about  Full Stack Web3, Blockchain , DeFi and DAO's <br><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Reach me at <a href="mailto:samridhsinghind@gmail.com">samkusaxena@gmail.com</a></p>
 
 
 ## 🌐 Socials:
